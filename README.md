@@ -21,7 +21,7 @@ ENTJs are often seen as natural leaders. They are strategic, goal-oriented, and 
 
 ## Usage and Cost Details
 
-- **Total Cost**: $0.025 USD
+- **Total Costor tree times testing**: $0.010 USD
 
 # GPT4.0 
 ## Personality Type: INTJ Architect
@@ -44,4 +44,4 @@ INTJs are often seen as strategic and visionary thinkers. They are analytical, g
 
 ## Usage and Cost Details
 
-- **Total Cost**: $0.025 USD
+- **Total Cost for tree times testing**: $0.084 USD
