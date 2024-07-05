@@ -7,14 +7,6 @@
 ![示例图片](ENTJ.png "这是一个示例图片")
 # Personality Type: ENTJ
 
-## Preference Scores
-
-- **E (Extraversion) 16 vs. I (Introversion) 5**: A higher score in Extraversion indicates a greater tendency to focus on the external world, drawing energy from interaction with others and activities. A lower score in Introversion suggests a lesser preference for solitude or inward thinking.
-- **S (Sensing) 10 vs. N (Intuition) 17**: A higher score in Intuition indicates a preference for seeing the big picture, focusing on future possibilities and abstract theories rather than present facts and practicality.
-- **T (Thinking) 14 vs. F (Feeling) 9**: A higher score in Thinking indicates a tendency to make decisions based on logical analysis and objective criteria rather than personal values and the impact on others.
-- **J (Judging) 16 vs. P (Perceiving) 6**: A higher score in Judging indicates a preference for a structured, organized lifestyle, making plans and sticking to them rather than being spontaneous and adaptable.
-
-Combining these preferences results in the ENTJ personality type.
 
 ## Overview of the ENTJ Personality Type
 
@@ -35,15 +27,6 @@ ENTJs are often seen as natural leaders. They are strategic, goal-oriented, and 
 ![示例图片](INTJ.png "这是一个示例图片")
 
 # Personality Type: INTJ
-
-## Preference Scores
-
-- **I (Introversion) 16 vs. E (Extraversion) 5**: A higher score in Introversion indicates a greater tendency to focus on the internal world, drawing energy from solitude and introspection. A lower score in Extraversion suggests a lesser preference for interaction with others and activities.
-- **N (Intuition) 17 vs. S (Sensing) 10**: A higher score in Intuition indicates a preference for seeing the big picture, focusing on future possibilities and abstract theories rather than present facts and practicality.
-- **T (Thinking) 14 vs. F (Feeling) 9**: A higher score in Thinking indicates a tendency to make decisions based on logical analysis and objective criteria rather than personal values and the impact on others.
-- **J (Judging) 16 vs. P (Perceiving) 6**: A higher score in Judging indicates a preference for a structured, organized lifestyle, making plans and sticking to them rather than being spontaneous and adaptable.
-
-Combining these preferences results in the INTJ personality type.
 
 ## Overview of the INTJ Personality Type
 
