@@ -1,10 +1,9 @@
 
 # LLMs_MBTI
 
-
 ## GPT3.5 ENTJ Commander
 
-![示例图片](ENTJ.png "这是一个示例图片")
+![Celebrities with same MBTI](ENTJ.png "Celebrities with same MBTI")
 # Personality Type: ENTJ
 
 
@@ -24,7 +23,7 @@ ENTJs are often seen as natural leaders. They are strategic, goal-oriented, and 
 - **Total Cost**: $0.025 USD
 
 ## GPT4.0 INTJ 
-![示例图片](INTJ.png "这是一个示例图片")
+![Celebrities with same MBTI](INTJ.png "Celebrities with same MBTI")
 
 # Personality Type: INTJ
 
