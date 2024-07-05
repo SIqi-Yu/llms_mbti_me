@@ -1,16 +1,15 @@
 
 # LLMs_MBTI
 
-## GPT3.5 ENTJ Commander
+## GPT3.5
 <div style="text-align: center;">
   <img src="ENTJ.png" alt="Celebrities with same MBTI" title="Celebrities with same MBTI" />
   <p><i>Celebrities who are ENTJ</i></p>
 </div>
 
-# Personality Type: ENTJ
+# Personality Type: ENTJ Commander
 
-
-## Overview of the ENTJ Personality Type
+## Overview of the ENTJ
 
 [ENTJ Personality Type](https://www.16personalities.com/entj-personality)
 
@@ -25,16 +24,16 @@ ENTJs are often seen as natural leaders. They are strategic, goal-oriented, and 
 
 - **Total Cost**: $0.025 USD
 
-## GPT4.0 INTJ 
+## GPT4.0 
 <div style="text-align: center;">
   <img src="INTJ.png" alt="Celebrities with same MBTI" title="Celebrities with same MBTI" />
   <p style="text-align: center;"><i>Celebrities who are INTJ</i></p>
 </div>
 
 
-# Personality Type: INTJ
+# Personality Type: INTJ Architect
 
-## Overview of the INTJ Personality Type
+## Overview of the INTJ 
 
 [INTJ Personality Type](https://www.16personalities.com/intj-personality)
 
