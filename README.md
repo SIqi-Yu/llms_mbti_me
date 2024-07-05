@@ -5,22 +5,31 @@
 ## GPT3.5 ENTJ Commander
 
 ![示例图片](ENTJ.png "这是一个示例图片")
-•e(外向性)16 vs. I(内向性)5:外向性得分越高，越倾向于关注外部世界，从与人的互动和活动中汲取能量。内向得分较低，表明不太喜欢独处或专注于内心思考。
-•s(感觉)10 vs. N(直觉)17:直觉得分越高，说明你更倾向于着眼于大局，关注未来的可能性和抽象理论，而不是眼前的事实和实用性。
-•t(思考)14分vs. F(感觉)9分:思考得分越高，表明更倾向于根据逻辑分析和客观标准做出决策，而不是个人价值观和对他人的影响。
-•j(判断)16分vs. P(感知)6分:判断得分越高，表明你更喜欢有条理、有组织的生活方式，制定计划并坚持下去，而不是随心所欲、灵活应变。
-将这些偏好结合起来，就形成了ENTJ型人格类型
+# Personality Type: ENTJ
 
-ENTJ型人格类型概述
-https://www.16personalities.com/entj-personality
-ENTJ型通常被视为天生的领导者。他们是战略性的，目标导向的，效率驱动的。以下是ENTJ的一些关键特征:
-•领导能力和远见:entj以其制定未来愿景并动员他人实现愿景的能力而闻名。
-决断力:基于逻辑推理和分析，他们能迅速而自信地做出决定。
-•效率和组织:他们重视效率和效果，通常擅长管理角色，因为他们可以创造秩序和结构。
-•自信:他们散发出自信，通常被视为有魅力和有说服力。
+## Preference Scores
 
-使用及费用详情
-•总成本:$0.025USD
+- **E (Extraversion) 16 vs. I (Introversion) 5**: A higher score in Extraversion indicates a greater tendency to focus on the external world, drawing energy from interaction with others and activities. A lower score in Introversion suggests a lesser preference for solitude or inward thinking.
+- **S (Sensing) 10 vs. N (Intuition) 17**: A higher score in Intuition indicates a preference for seeing the big picture, focusing on future possibilities and abstract theories rather than present facts and practicality.
+- **T (Thinking) 14 vs. F (Feeling) 9**: A higher score in Thinking indicates a tendency to make decisions based on logical analysis and objective criteria rather than personal values and the impact on others.
+- **J (Judging) 16 vs. P (Perceiving) 6**: A higher score in Judging indicates a preference for a structured, organized lifestyle, making plans and sticking to them rather than being spontaneous and adaptable.
 
-## GPT4.0 INTJ
+Combining these preferences results in the ENTJ personality type.
+
+## Overview of the ENTJ Personality Type
+
+[ENTJ Personality Type](https://www.16personalities.com/entj-personality)
+
+ENTJs are often seen as natural leaders. They are strategic, goal-oriented, and efficiency-driven. Here are some key characteristics of ENTJs:
+
+- **Leadership and Vision**: ENTJs are known for their ability to create future visions and mobilize others to achieve them.
+- **Decisiveness**: They can make quick and confident decisions based on logical reasoning and analysis.
+- **Efficiency and Organization**: They value efficiency and effectiveness, often excelling in managerial roles as they can create order and structure.
+- **Confidence**: They exude confidence and are often seen as charismatic and persuasive.
+
+## Usage and Cost Details
+
+- **Total Cost**: $0.025 USD
+
+## GPT4.0 INTJ 
 ![示例图片](INTJ.png "这是一个示例图片")
