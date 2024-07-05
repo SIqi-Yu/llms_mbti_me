@@ -24,6 +24,11 @@ ENTJs are often seen as natural leaders. They are strategic, goal-oriented, and 
 
 ## GPT4.0 INTJ 
 ![Celebrities with same MBTI](INTJ.png "Celebrities with same MBTI")
+<div style="text-align: center;">
+  <img src="INTJ.png" alt="Celebrities with same MBTI" title="Celebrities with same MBTI" />
+  <p><i>Figure 1: Celebrities with the same MBTI</i></p>
+</div>
+
 
 # Personality Type: INTJ
 
